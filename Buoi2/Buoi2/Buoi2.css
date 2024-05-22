@@ -1,0 +1,22 @@
+﻿body {
+}
+.td {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    font-style: normal;
+    color: #000000;
+    background-color: #66FFFF;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+}
+.button {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color: #FFFFFF;
+    background-color: #0000FF;
+    margin: 20px;
+    padding: 10px 30px 10px 30px;
+}
